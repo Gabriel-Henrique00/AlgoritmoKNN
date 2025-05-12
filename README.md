@@ -4,8 +4,6 @@ O algoritmo KNN (K-Nearest Neighbors) é um algoritmo de aprendizado de máquina
 
 Neste projeto, é realizada a análise de flores das espécies "setosa", "versicolor" e "virnínica" e de acordo com as dimensões de suas pétalas e sépalas é comparado com o arquivo "íris_data2" que não possui o nome das espécies, apenas as dimensões. De acordo com as dimensões e os K elementos mais próximos do arquivo "íris_data" é classificado a nome da espécie mais provável que ela seja
 
-🐳 Executando com Docker
-Siga os passos abaixo para executar este projeto usando Docker:
 
 ## 🐳 Executando com Docker
 
