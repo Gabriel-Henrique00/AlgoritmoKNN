@@ -16,4 +16,4 @@ Abra o terminal na raiz do projeto (onde está o `Dockerfile`) e execute:
 ```bash
 docker build -t algoritmo-knn .
 
-docker run --rm algoritmo-knn
+docker run -it algoritmo-knn
